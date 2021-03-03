@@ -1,1 +1,1 @@
-web: gunicorn app:flutter-packages-api
+web: gunicorn app:app
